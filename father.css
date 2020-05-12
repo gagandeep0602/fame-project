@@ -1,0 +1,33 @@
+#bg{
+    background-image: url(unnamed.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ height: 43rem;;
+  
+    }
+    #maincard
+    {
+     top: 5rem;
+     width: 55rem;
+     left: 2rem;
+     height: 36rem;
+    
+     background-image: url(kittikornphongok190300067.jpg);
+     background-position: right;
+    
+    background-repeat: no-repeat;
+    
+    }
+    a
+    {
+    color: black;
+    font-size: 1.4rem;
+    
+    }
+    a:hover
+    {
+        color: tomato;
+    }
+    

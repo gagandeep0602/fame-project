@@ -1,0 +1,47 @@
+
+#bg{
+background-image: url(1.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+height: 45rem;
+}
+#maincard
+{
+ top: 5rem;
+ width: 55rem;
+ left: 2rem;
+ height: 36rem;
+
+ background-image: url(kittikornphongok190300067.jpg);
+ background-position: right;
+
+background-repeat: no-repeat;
+
+}
+a
+{
+color: black;
+font-size: 1.4rem;
+
+}
+a:hover
+{
+    color: tomato;
+}
+
+#component3 {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:2rem ; 
+    font-family: Capriola; 
+    color:	rgb(185, 70, 70);
+  }  
